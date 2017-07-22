@@ -1,12 +1,12 @@
 # typescript-template
-## 最初に
-npm install
 
-## インストールされるもの
-typescript  
-http-server  
-webpack
-ts-loader
+# ディレクトリ分け
+basic 基本セット
+jquery JQuery版
+
+## 最初に
+各セットのディレクトリに移動したあと  
+npm install  
 
 ## コマンド
 - ビルド  
