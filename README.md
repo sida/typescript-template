@@ -1,8 +1,8 @@
 # typescript-template
 
 # ディレクトリ分け
-basic 基本セット
-jquery JQuery版
+basic 基本セット  
+jquery JQuery版  
 
 ## 最初に
 各セットのディレクトリに移動したあと  
