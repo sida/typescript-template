@@ -59,4 +59,4 @@ typings/
 
 ###
 build/
-
+package-lock.json
